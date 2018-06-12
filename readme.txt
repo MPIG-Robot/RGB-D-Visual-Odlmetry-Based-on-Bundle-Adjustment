@@ -1,1 +1,0 @@
-The codes are used for kNN regression algorithm .Download from www.manning.com/MachineLearninginAction.
